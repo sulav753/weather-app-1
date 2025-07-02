@@ -1,29 +1,4 @@
-// let obj={
-//     name:"sulav",
-//     course:"csit",
-//     semester:1,
-//     employe:"student",
-//     printName:()=>{
-//         console.log("fello sulav")
-//     }
 
-// }
-// console.log(obj.name)
-// console.log(obj.course)
-// console.log(obj.semester)
-// console.log(obj.employe)
-
-// let obj={
-//     name:"sulav",
-//         course:"csit",
-//         semester:1,
-//         employe:"student",
-//         hello: function(){
-//             // console.log("hello sulav")
-//         console.log(`my name is${this.name}`)
-//         }
-// }
-// obj.hello()
 
 let btn=document.querySelector(".btn")
 const cityInput=document.querySelector("#city")
